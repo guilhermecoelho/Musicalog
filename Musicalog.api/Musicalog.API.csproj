@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Musicalog,Domain\Musicalog.Domain.csproj" />
+    <ProjectReference Include="..\Musicalog.Applications\Musicalog.Applications.csproj" />
+    <ProjectReference Include="..\Musicalog.Data\Musicalog.Data.csproj" />
+  </ItemGroup>
+
+
+</Project>

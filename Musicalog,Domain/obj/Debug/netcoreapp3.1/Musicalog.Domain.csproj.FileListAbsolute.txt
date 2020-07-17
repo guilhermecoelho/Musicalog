@@ -1,0 +1,9 @@
+D:\Git\Musicalog\Musicalog,Domain\bin\Debug\netcoreapp3.1\Musicalog.Domain.deps.json
+D:\Git\Musicalog\Musicalog,Domain\bin\Debug\netcoreapp3.1\Musicalog.Domain.dll
+D:\Git\Musicalog\Musicalog,Domain\bin\Debug\netcoreapp3.1\Musicalog.Domain.pdb
+D:\Git\Musicalog\Musicalog,Domain\obj\Debug\netcoreapp3.1\Musicalog.Domain.csprojAssemblyReference.cache
+D:\Git\Musicalog\Musicalog,Domain\obj\Debug\netcoreapp3.1\Musicalog.Domain.AssemblyInfoInputs.cache
+D:\Git\Musicalog\Musicalog,Domain\obj\Debug\netcoreapp3.1\Musicalog.Domain.AssemblyInfo.cs
+D:\Git\Musicalog\Musicalog,Domain\obj\Debug\netcoreapp3.1\Musicalog.Domain.csproj.CoreCompileInputs.cache
+D:\Git\Musicalog\Musicalog,Domain\obj\Debug\netcoreapp3.1\Musicalog.Domain.dll
+D:\Git\Musicalog\Musicalog,Domain\obj\Debug\netcoreapp3.1\Musicalog.Domain.pdb

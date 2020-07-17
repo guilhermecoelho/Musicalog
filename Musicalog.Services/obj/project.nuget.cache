@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "md3QXc0ZVLtt/kSy9xDS2jdbWflYrM+b6ijtyW6VW3aIludpBPbDXZd/+JSTw6R0Kq3B0Z+H6F/QOL5jScBcdg==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\Musicalog.Services\\Musicalog.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Git\Musicalog\Musicalog.Data\bin\Debug\netcoreapp3.1\Musicalog.Data.deps.json
+D:\Git\Musicalog\Musicalog.Data\bin\Debug\netcoreapp3.1\Musicalog.Data.runtimeconfig.json
+D:\Git\Musicalog\Musicalog.Data\bin\Debug\netcoreapp3.1\Musicalog.Data.runtimeconfig.dev.json
+D:\Git\Musicalog\Musicalog.Data\bin\Debug\netcoreapp3.1\Musicalog.Data.dll
+D:\Git\Musicalog\Musicalog.Data\bin\Debug\netcoreapp3.1\Musicalog.Data.pdb
+D:\Git\Musicalog\Musicalog.Data\obj\Debug\netcoreapp3.1\Musicalog.Data.csprojAssemblyReference.cache
+D:\Git\Musicalog\Musicalog.Data\obj\Debug\netcoreapp3.1\Musicalog.Data.AssemblyInfoInputs.cache
+D:\Git\Musicalog\Musicalog.Data\obj\Debug\netcoreapp3.1\Musicalog.Data.AssemblyInfo.cs
+D:\Git\Musicalog\Musicalog.Data\obj\Debug\netcoreapp3.1\Musicalog.Data.csproj.CoreCompileInputs.cache
+D:\Git\Musicalog\Musicalog.Data\obj\Debug\netcoreapp3.1\Musicalog.Data.csproj.CopyComplete
+D:\Git\Musicalog\Musicalog.Data\obj\Debug\netcoreapp3.1\Musicalog.Data.dll
+D:\Git\Musicalog\Musicalog.Data\obj\Debug\netcoreapp3.1\Musicalog.Data.pdb
+D:\Git\Musicalog\Musicalog.Data\obj\Debug\netcoreapp3.1\Musicalog.Data.genruntimeconfig.cache
+D:\Git\Musicalog\Musicalog.Data\bin\Debug\netcoreapp3.1\Musicalog.Domain.dll
+D:\Git\Musicalog\Musicalog.Data\bin\Debug\netcoreapp3.1\Musicalog.Domain.pdb
